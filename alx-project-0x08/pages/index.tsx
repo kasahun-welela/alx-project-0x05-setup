@@ -1,4 +1,4 @@
-import ImageCard from "@/components/layouts/common/ImageCard";
+import ImageCard from "@/components/common/ImageCard";
 import { ImageProps } from "@/interfaces";
 import { useState } from "react";
 
